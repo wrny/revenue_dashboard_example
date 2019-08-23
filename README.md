@@ -30,10 +30,8 @@ While this is a sell-side example, the general principle be applied the buy-side
 
 Below is a link where you can download the HTML file, and watch a video of the program in action:
 
-[dashboard.html] (https://drive.google.com/open?id=1-qRoa9V7IeSmBuLqUWjk1mFq8IR-EHsJ)
+[dashboard.html](https://drive.google.com/open?id=1-qRoa9V7IeSmBuLqUWjk1mFq8IR-EHsJ)
+
 [Video of Program in Action](https://drive.google.com/file/d/14GfVJxMm9pKLDFwhB8S93UcQMrcUkK-W/view)
 
 Note: The program requires API keys and report IDs from the various SSPs and that’s sensitive information. You won’t see any real API keys in this repo, as they’re saved to my local machine. The code / video are here just to show what’s possible. If you download the repo and try to run it, you’ll likely get an error right off the bat telling you that you don’t have the right API keys. But the attached dashboard.html file is a good representation of what the data might look like and the video shows what the program is like in action.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
